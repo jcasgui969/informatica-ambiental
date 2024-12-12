@@ -6,6 +6,17 @@
 <h1 id="trabajo-del-medio-ambiente">TRABAJO DEL MEDIO AMBIENTE</h1>
 <p><img src="https://dashiell00eidolon.wordpress.com/wp-content/uploads/2009/12/1903285383_small_1.jpg" alt="enter image description here"><br>
 <a href="https://www.youtube.com/watch?v=RDe9AU7dh4s">enter link description here</a></p>
+<h1 id="indice">indice</h1>
+<p>-<a href="#%C2%BFQue-es-el-medio-ambiente?">¿Que es el medio ambiente?</a><br>
+-<a href="#Normativa-del-medio-ambiente">Normativa del medio ambiente</a><br>
+-<a href="#normas-para-reducir-el-impacto-ambiental-de-la-informatica">normas para reducir el impacto ambiental de la informatica</a><br>
+-<a href="#%C2%BFque-es-la-directiva-rohs?">¿que es la directiva rohs?</a><br>
+-<a href="#%C2%BFcual-es-su-objetivo?">¿cual es su objetivo?</a><br>
+-<a href="#reciclaje-de-consumible">reciclaje de consumible</a><br>
+-<a href="#reciclaje-de-equipamientos-informaticos">reciclaje de equipamientos informaticos</a><br>
+-<a href="#reciclaje-en-paises-subdesarrollados">reciclaje en paises subdesarrollados</a><br>
+-<a href="#conclusion">conclusion</a><br>
+-<a href="#enlaces">enlaces</a></p>
 <h1 id="¿que-es-el-medio-ambiente">¿Que es el medio ambiente?</h1>
 <p>El <strong>medioambiente</strong> es el espacio en el que se desarrolla la vida de los distintos organismos favoreciendo su interacción. En él se encuentran tanto seres vivos como elementos sin vida y otros creados por la mano del hombre.</p>
 <h2 id="normativa-del-medio-ambiente">Normativa del medio ambiente</h2>
